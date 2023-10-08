@@ -187,7 +187,6 @@ h6 {
   position: relative;
   /* background: url("../img/intro-bg.png") center bottom no-repeat; */
   background: url("../img/hero.png") center bottom no-repeat;
-  /* background: url("https://i.pinimg.com/564x/0f/99/ec/0f99ecd188e5a6ef88306522d8e437e3.jpg") center bottom no-repeat; */
   background-size: cover;
   object-fit: cover;
   padding: 200px 0 120px 0;
